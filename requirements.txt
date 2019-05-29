@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pandas
+IPython
+ipywidgets
+plotly
+cufflinks
