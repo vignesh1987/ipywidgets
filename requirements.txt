@@ -5,5 +5,3 @@ IPython
 ipywidgets
 plotly
 cufflinks
-pickle
-os
