@@ -16,7 +16,7 @@
 "BMCHP03N,Biomass & Waste CHP plant - NDT cooling (new),darkcyan",
 "BMCHP04N,Biomass & Waste CHP plant - OTF/OTS cooling (new),darkgray",
 "CH00I00X,Charcoal imports,darkgrey",
-"CO00I00X,Coal imports (inland transport", maritime freight);darkmagenta
+"CO00I00X,Coal imports (inland transport", maritime freight),darkmagenta
 "CO00P00X,Coal process (non-power sector),darkorange",
 "CO00X00X,Coal extraction (mining),darkred",
 "COSCC01N,Coal power plant with CCS - Air cooling (new),darkseagreen",
