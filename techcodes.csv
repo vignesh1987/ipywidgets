@@ -141,6 +141,7 @@ TNELDZBP00,Tunisia - Algeria Historic EL trade link,gray
 DZNGITBP00,Algeria - Italy Historic NG trade link,orange
 DZNGPOBP00,Algeria - Portugal Historic NG trade link,aqua
 DZNGESBP00,Algeria - Spain Historic and Planned NG trade link,polarbluelight
+DZNGMABP00,Algeria - Morocco Historic NG trade link,lightgreen
 DZNGTNBP00,Algeria - Tunisia Historic NG trade link,blueviolet
 EGNGTUBP00,Egypt - Turkey Historic NG trade link,polarorange
 ISNGEGBP00,Israel - Egypt Planned NG trade link,silver
@@ -189,3 +190,32 @@ NMELZMBP00,Namibia - Zambia EL planned trade link,bisque
 NMELZWBP00,Namibia - Zimbabwe EL planned trade link,grey11
 TZELZMBP00,Tanzania - Zambia EL planned trade link,grey13
 ZMELTZBP00,Zambia - Tanzania EL planned trade link,pinksalmon
+BJELNEBP00,Benin - Niger EL planned trade link,polar
+BJELGHBP00,Benin - Ghana EL planned trade link,polarbluelight
+GHELBJBP00,Ghana - Benin EL planned trade link,polardark
+NEELBJBP00,Niger - Benin EL planned trade link,polardust
+TGELBJBP00,Togo - Benin EL existing trade link,polargreen
+BFELNEBP00,Burkina Faso - Niger EL planned trade link,polarpurple
+CIELBFBP00,Cote d´ Ivoire - Burkina Faso EL existing trade link,powderblue
+GHELBFBP00,Ghana - Burkina Faso EL planned trade link,red
+NEELBFBP00,Niger - Burkina Faso EL existing and planned trade link,rosybrown
+CIELSLBP00,Cote d´ Ivoire - Sierra Leone EL planned trade link,saddlebrown
+CIELGHBP00,Cote d´ Ivoire - Ghana EL planned trade link,sandybrown
+CIELLRBP00,Cote d´ Ivoire - Liberia EL planned trade link,seagreen
+GHELCIBP00,Ghana - Cote d´ Ivoire EL existing trade link,sienna
+MLELCIBP00,Mali - Cote d´ Ivoire EL planned trade link,skyblue
+GMELGWBP00,Gambia - Guinea Bissau EL planned trade link,slategray
+GMELSNBP00,Gambia - Senegal EL planned trade link,smurf
+TGELGHBP00,Togo - Ghana EL planned trade link,springgreen
+GHELTGBP00,Ghana - Togo EL existing and planned trade link,tan
+GHELMLBP00,Ghana - Mali EL planned trade link,thistle
+GNELMLBP00,Guinea - Mali EL planned trade link,turquoise
+GNELSNBP00,Guinea - Senegal EL planned trade link,wheat
+SNELMRBP00,Senegal - Mauritania EL planned trade link,whitesmoke
+NGNGBJBP00,Nigeria - Benin Historic NG trade link,lightsalmon
+NGNGGHBP00,Nigeria - Ghana Historic NG trade link,lightskyblue
+NGNGNEBP00,Nigeria - Niger Historic NG trade link,lightslategrey
+NGNGTGBP00,Nigeria - Togo Historic NG trade link,lightteal
+CMELTDBP00,Cameroon - Chad EL planned trade link,navy
+CDELCGBP00,DRC - Congo EL existing trade link,lightgreen
+GEOTHERMAL,Geothermal,polarorange
