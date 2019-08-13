@@ -6,4 +6,4 @@ ipywidgets
 plotly==3.10.0
 cufflinks
 psutil
-plotly-orca
+
