@@ -3,7 +3,7 @@ matplotlib
 pandas
 IPython
 ipywidgets
-plotly
+plotly==3.10.0
 cufflinks
 psutil
-orca
+
