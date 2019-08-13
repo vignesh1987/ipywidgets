@@ -4,6 +4,6 @@ pandas
 IPython
 ipywidgets
 plotly
-python-cufflinks
+cufflinks
 psutil
 orca
