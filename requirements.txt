@@ -3,7 +3,7 @@ matplotlib
 pandas
 IPython
 ipywidgets
-plotly
-cufflinks
+plotly=3.10.0
+python-cufflinks
 psutil
 orca
