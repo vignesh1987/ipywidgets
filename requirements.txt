@@ -5,3 +5,5 @@ IPython
 ipywidgets
 plotly
 cufflinks
+psutil
+orca
